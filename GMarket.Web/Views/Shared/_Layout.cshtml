@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - GMarket.Web</title>
+    <link href="~/lib/jquery/dist/jquery.min.js" rel="stylesheet"/>
+    
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/Categories.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/RegLogPartial.css" asp-append-version="true"/>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+<header>
+    <nav class="navigationBar">
+        <a class="logoContainer" href="#">
+            <img src="/img/logo.svg" class="logo" alt="GMarket Logo">
+            <div class="logoText">GMarket</div>
+        </a>
+        <ul class="navLinks">
+            <li><a href="#">О нас</a></li>
+            <li><a href="#ourExclusives">Наши Преимущества</a></li>
+            <li><a href="/Categories/ListOfCategories">Категории</a></li>
+            <li><a href="#">Форум</a></li>
+        </ul>
+        @*<div class="searchContainer">
+            <input id="searchInput" type="text" placeholder="Search...">
+            <button class="searchIcon"><i class="fas fa-search"></i></button>
+        </div>*@
+        <div class="navIcons">
+            <a href="#" class="navIcon"><i class="fas fa-heart"></i></a>
+            <a href="#" class="navIcon"><i class="fas fa-shopping-cart"></i></a>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a href="#" onclick="window.location.href = '@Url.Action("Logout", "Home")'" class="navIcon">
+                    <img src="@User.Claims.FirstOrDefault(c => c.Type == "AvatarPath")?.Value" style="height: 40px;width: 40px; border-radius: 50%" class="navIcon" alt=""/>
+                </a>
+            }
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <a href="#" id="click-to-hide" class="navIcon"><i class="fas fa-user"></i></a>
+            }
+            <a href="#" class="navIcon"><i id="hamburger" class="fas fa-bars icon"></i></a>
+        </div>
+        <div id="side-menu" class="side-menu">
+            <div>
+                <ul>
+                    <li><a href="#">Главная</a></li>
+                    <li><a href="#">Контакты</a></li>
+                    <li><a href="#">Преимущества</a></li>
+                    <li><a href="#">Форум</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="content">
+    <main role="main" class="pb-3">
+        @await Html.PartialAsync("_LoginRegistrationPartial");
+        @await Html.PartialAsync("_ConfirmEmailPartial");
+        @RenderBody()
+    </main>
+</div>
+<footer class="">
+    <!-- Секция с контактами -->
+    <div class="contacts-container">
+        <div class="contacts">
+
+            <h1>Наши Контакты</h1>
+            <p><i class="fas fa-phone-alt"></i> Телефон: +7 (123) 456-7890</p>
+            <p><i class="fas fa-envelope"></i> Email: info@gmarket.ru</p>
+            <p><i class="fas fa-map-marker-alt"></i> Адрес: ул. Цветочная, дом 123, г. Москва, Россия</p>
+            <p><i class="fas fa-clock"></i> График работы: Пн-Пт с 9:00 до 18:00</p>
+        </div>
+        <div class="map">
+            <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A77915ef1edc8c78f193344c166a1e5dfa435e566b403612965da54c4ec7a5685&amp;source=constructor" width="200" height="150" frameborder="0"></iframe>
+        </div>
+    </div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="~/js/RegLogScript.js" asp-append-version="true"></script>
+<script src="~/js/CategoriesScript.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

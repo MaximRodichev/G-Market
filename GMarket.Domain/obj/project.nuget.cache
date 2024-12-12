@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8JwUXcK6HI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Domain\\GMarket.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hi-tech\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="11.10.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Entities\Cart.cs" />
+      <Compile Remove="Entities\User.cs" />
+      <Compile Remove="Validators\CartValidator.cs" />
+      <Compile Remove="Validators\UserValidator.cs" />
+      <Compile Remove="Entities\Review\**" />
+      <Compile Remove="Validators\OrderCredentialsValidator.cs" />
+      <Compile Remove="Validators\OrderItemValidator.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Entities\Review\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Entities\Review\**" />
+    </ItemGroup>
+
+</Project>

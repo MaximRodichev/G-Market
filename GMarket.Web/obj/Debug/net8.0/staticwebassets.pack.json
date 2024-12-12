@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GMarket.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GMarket.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\ImageUser\\icreoaffilate@gmail.com-avatar.jpg",
+      "PackagePath": "staticwebassets\\ImageUser\\icreoaffilate@gmail.com-avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\ImageUser\\myslitelnitca@gmail.com-avatar.jpg",
+      "PackagePath": "staticwebassets\\ImageUser\\myslitelnitca@gmail.com-avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\ImageUser\\vymasfyaya@gmail.com-avatar.jpg",
+      "PackagePath": "staticwebassets\\ImageUser\\vymasfyaya@gmail.com-avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\css\\Categories.css",
+      "PackagePath": "staticwebassets\\css\\Categories.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\css\\RegLogPartial.css",
+      "PackagePath": "staticwebassets\\css\\RegLogPartial.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\card1.jpeg",
+      "PackagePath": "staticwebassets\\img\\card1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\card2.jpg",
+      "PackagePath": "staticwebassets\\img\\card2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\card3.jpg",
+      "PackagePath": "staticwebassets\\img\\card3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\card4.jpg",
+      "PackagePath": "staticwebassets\\img\\card4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\card5.jpg",
+      "PackagePath": "staticwebassets\\img\\card5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\category_inventory.jpg",
+      "PackagePath": "staticwebassets\\img\\category_inventory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\category_semena.jpg",
+      "PackagePath": "staticwebassets\\img\\category_semena.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\category_ydobren.jpg",
+      "PackagePath": "staticwebassets\\img\\category_ydobren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\garden.png",
+      "PackagePath": "staticwebassets\\img\\garden.png"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\google.svg",
+      "PackagePath": "staticwebassets\\img\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\products\\featilizer\\удобрение_1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\featilizer\\удобрение_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\products\\inventory\\power_action.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\inventory\\power_action.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\products\\inventory\\yato_01.png",
+      "PackagePath": "staticwebassets\\img\\products\\inventory\\yato_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\products\\inventory\\yato_02.webp",
+      "PackagePath": "staticwebassets\\img\\products\\inventory\\yato_02.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\products\\seeds\\seed_1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\seeds\\seed_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\products\\seeds\\seed_2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\seeds\\seed_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\products\\seeds\\seed_3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\seeds\\seed_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\qa33y7xl2u67a9o87xcqbrrio7nb18yp.webp",
+      "PackagePath": "staticwebassets\\img\\qa33y7xl2u67a9o87xcqbrrio7nb18yp.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\js\\CategoriesScript.js",
+      "PackagePath": "staticwebassets\\js\\CategoriesScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\js\\RegLogScript.js",
+      "PackagePath": "staticwebassets\\js\\RegLogScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hi-tech\\RiderProjects\\G-Market\\GMarket.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GMarket.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GMarket.Web.props",
+      "PackagePath": "build\\GMarket.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GMarket.Web.props",
+      "PackagePath": "buildMultiTargeting\\GMarket.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GMarket.Web.props",
+      "PackagePath": "buildTransitive\\GMarket.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

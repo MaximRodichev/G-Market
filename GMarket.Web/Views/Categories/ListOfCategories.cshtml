@@ -1,0 +1,31 @@
+@model List<GMarket.Domain.ViewModels.CategoryView>
+@{
+    ViewData["Title"] = "Категории";
+    Layout = "_Layout";
+}
+
+<div class="container-categories">
+    <div class="link-page">
+        <a href="/Home/Index">Главная</a> > Категории
+    </div>
+    
+    <div class="grid-container">
+        @if (Model.Count != 0)
+        {
+            @foreach (var item in Model)
+            {
+                <div class="card-country" onclick="window.location.href = '@Url.Action("ListOfProducts", "Categories", null)'">
+                    <img src="@item.CategoryImage" alt="@item.CategoryName" class="card-image"/>
+                    <div class="card-overlay">
+                        <div class="card-title">@item.CategoryName</div>
+                        <p class="card-description">
+                            @item.CategoryDescription
+                            Изучать =>>>>
+                        </p>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+

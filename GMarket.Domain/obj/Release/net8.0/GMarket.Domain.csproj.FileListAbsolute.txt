@@ -1,0 +1,13 @@
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\bin\Release\net8.0\GMarket.Domain.deps.json
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\bin\Release\net8.0\GMarket.Domain.dll
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\bin\Release\net8.0\GMarket.Domain.pdb
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.AssemblyInfo.cs
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.sourcelink.json
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.dll
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\refint\GMarket.Domain.dll
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\GMarket.Domain.pdb
+C:\Users\Hi-tech\RiderProjects\GMarket\GMarket.Domain\obj\Release\net8.0\ref\GMarket.Domain.dll
